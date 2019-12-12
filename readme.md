@@ -4,7 +4,7 @@
 <img src="screenshot.png">
 </p>
 
-This is a very stripped down version of the spaceship theme since I don't care to use any of the git and similar functionality. It features:
+A minimal version of the spaceship theme. It features:
 
 - Username and hostname
 - Ligature used instead of tiny arrow (This requires a font like FiraCode.)
