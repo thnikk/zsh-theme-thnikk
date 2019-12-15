@@ -11,3 +11,4 @@ A minimal version of the spaceship theme. It features:
 - Fun colors
 - Prompt on second line so you always start typing at the same place
 - Truncated directories past a depth of two (ie ../polybar/scripts)
+- Hostname changes color if using SSH
