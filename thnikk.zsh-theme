@@ -2,11 +2,11 @@ NEWLINE=$'\n'
 # Use for fish-like directories
 RRD='%(4~|../%2~|%~)'
 
-if [ $THNIKK_ZSH_CHAR = "1" ]; then
-    CHAR="→"
-else
+#if [ $THNIKK_ZSH_CHAR = "1" ]; then
+#    CHAR="→"
+#else
     CHAR="->"
-fi
+#fi
 
 if [ -n "$SSH_CLIENT" ]; then
     HN="%{$fg[red]%}%m %{$reset_color%}%"
