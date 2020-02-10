@@ -3,9 +3,9 @@ NEWLINE=$'\n'
 RRD='%(4~|../%2~|%~)'
 
 #if [ $THNIKK_ZSH_CHAR = "1" ]; then
-#    CHAR="→"
+    CHAR="→"
 #else
-    CHAR="->"
+#    CHAR="->"
 #fi
 
 if [ -n "$SSH_CLIENT" ]; then
